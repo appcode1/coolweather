@@ -1,7 +1,5 @@
 package com.coolweather.app.activity;
 
-//import net.youmi.android.banner.AdSize;
-//import net.youmi.android.banner.AdView;
 import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;

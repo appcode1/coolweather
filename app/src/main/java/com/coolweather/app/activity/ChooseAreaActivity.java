@@ -3,7 +3,6 @@ package com.coolweather.app.activity;
 import java.util.ArrayList;
 import java.util.List;
 
-//import net.youmi.android.AdManager;
 import android.app.Activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
