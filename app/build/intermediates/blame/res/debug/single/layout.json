@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Work/coolweather/app/build/intermediates/res/merged/debug/layout/choose_area.xml",
+        "source": "/Work/coolweather/app/src/main/res/layout/choose_area.xml"
+    },
+    {
+        "merged": "/Work/coolweather/app/build/intermediates/res/merged/debug/layout/weather_layout.xml",
+        "source": "/Work/coolweather/app/src/main/res/layout/weather_layout.xml"
+    }
+]

@@ -1,0 +1,3 @@
+CHANGED,/Work/coolweather/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/coolweather/app/activity/ChooseAreaActivity$override.class
+CHANGED,/Work/coolweather/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Work/coolweather/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/coolweather/app/activity/WeatherActivity$override.class

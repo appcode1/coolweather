@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Work/coolweather/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d6b88c32f9893cbd4dbc9b5fdd74def9338e1188">
+        <dex dex="/Work/coolweather/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_58799026e1d9c7a41579959bf67b0d3b16e895f7/classes.dex" />
+    </item>
+
+</items>
